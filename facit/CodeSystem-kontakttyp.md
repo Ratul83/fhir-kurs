@@ -32,7 +32,7 @@ Typ av vårdkontakt (fiktivt kodsystem för utbildningen).
   "title" : "Kontakttyp",
   "status" : "draft",
   "experimental" : true,
-  "date" : "2026-11-01T18:46:24+00:00",
+  "date" : "2026-11-01T19:02:32+00:00",
   "publisher" : "FHIR-utbildning",
   "description" : "Typ av vårdkontakt (fiktivt kodsystem för utbildningen).",
   "jurisdiction" : [{

@@ -51,7 +51,7 @@ Ett urval av koder ur HL7 v3 ActCode som får användas i Encounter.class.
   "title" : "Klass av vårdkontakt",
   "status" : "draft",
   "experimental" : true,
-  "date" : "2026-11-01T18:46:24+00:00",
+  "date" : "2026-11-01T19:02:32+00:00",
   "publisher" : "FHIR-utbildning",
   "description" : "Ett urval av koder ur HL7 v3 ActCode som får användas i Encounter.class.",
   "jurisdiction" : [{
